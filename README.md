@@ -9,4 +9,5 @@ Sensor fusion involves the process of taking data from multiple sensors and comb
 
 **Sensor Fusion** by combining lidar's high resolution imaging with radar's ability to measure velocity of objects we can get a better understanding of the sorrounding environment than we could using one of the sensors alone.
 
-
+-------------------------------------------------------------------
+** Currently working ** on Lidar point-cloud based obstacle detection
