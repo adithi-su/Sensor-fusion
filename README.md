@@ -1,4 +1,3 @@
-<h> Sensor fusion </h>
 <img src="media/ObstacleDetectionFPS.gif" width="700" height="400" />
 
 
